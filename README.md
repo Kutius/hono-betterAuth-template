@@ -22,8 +22,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone <your-repository-url>
-cd auth-test
+git clone https://github.com/Kutius/hono-betterAuth-template.git
+cd hono-betterAuth-template
 ```
 
 ### 2. 安装依赖
