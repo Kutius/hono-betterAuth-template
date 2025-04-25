@@ -101,4 +101,4 @@ bun run dev
 
 ## 📜 License
 
-[MIT](./LICENSE) (如果需要，请添加 LICENSE 文件)
+[MIT](./LICENSE)
